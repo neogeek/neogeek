@@ -20,6 +20,8 @@ This project was built with the sole purpose of simplifying the addition of subt
 
 #### Cards Against Undefined
 
+[Git Repo](https://github.com/neogeek/cards-against-undefined) / [Play Online](http://cards-against-undefined.herokuapp.com/)
+
 Cards Against Undefined is an online version of Cards Against Humanity built with a number of packages that were released during the initial development. These packages are built specifically for building Jackbox-like games.
 
 - [websocket-game-lobby](https://github.com/neogeek/websocket-game-lobby) - This package is for biulding the server component.
