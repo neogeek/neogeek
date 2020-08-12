@@ -59,6 +59,6 @@ In addition to CandyCoded, I also maintain a lot of tools for simplifying certai
 
 #### Top Down
 
-[Git Repo](https://github.com/neogeek/topdown) / <https://topdown.app>
+[Git Repo](https://github.com/neogeek/topdown) / [topdown.app](https://topdown.app)
 
 I love Trello, but I've found managing a number of boards can result in lost tasks. To simplify this process, I made a Trello board aggregator called Top Down. Top Down is a read-only aggregate of lists in all of your starred boards. It is free to use and doesn't store any data at all.
