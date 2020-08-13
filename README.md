@@ -31,6 +31,7 @@ Cards Against Undefined is an online version of Cards Against Humanity built wit
 - 🎉 [websocket-game-lobby-client](https://github.com/neogeek/websocket-game-lobby-client)- This package is for building the web client.
 - 🎉 [websocket-game-lobby-client-hooks](https://github.com/neogeek/websocket-game-lobby-client-hooks) - This package is for building the web client with React.
 - 🎉 [websocket-event-wrapper](https://github.com/neogeek/websocket-event-wrapper) - This package is simply used for wrapping WebSocket events.
+- 🎉 [http-single-serve](https://github.com/neogeek/http-single-serve) - This package is used to serve static content for single-page applications.
 
 ### Untitled Drawing Game
 
@@ -74,6 +75,11 @@ When Slack first opened up the platform to development, I immediately started to
 
 - 🔥 [giffany](https://github.com/neogeek/giffany) - This Slack bot works similar to Giphy as you can search for gifs, preview, randomize and then post those gifs.
 - 🔥 [slash commands](https://github.com/neogeek/cloudflare-workers) - This random assortment of slash commands has been completely rebuilt and deployed on the Cloudflare Worker Function platform.
+
+### Custom Webpack App
+
+- 🎉 [custom-webpack-cli](https://github.com/neogeek/custom-webpack-cli) - This CLI is used to simplify the Webpack setup process creating a `package.json`, `index.html`, and `index.jsx` file. No configuration needed.
+- 🎉 [create-custom-webpack-app](https://github.com/neogeek/create-custom-webpack-app) - This CLI tool is used to even further simplify the process in which it creates all of the files needed to start building a React single web application.
 
 #### Emoji Legend
 
