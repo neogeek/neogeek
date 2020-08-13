@@ -68,6 +68,13 @@ I love Trello, but I've found managing a number of boards can result in lost tas
 
 - 👷‍♂️ [topdown](https://github.com/neogeek/topdown)
 
+### Slack Bots
+
+When Slack first opened up the platform to development, I immediately started to create content for it. Recently, I decided to go back and rebuild those projects to work with more recent technology.
+
+- 🔥 [giffany](https://github.com/neogeek/giffany) - This Slack bot works similar to Giphy as you can search for gifs, preview, randomize and then post those gifs.
+- 🔥 [slash commands](https://github.com/neogeek/cloudflare-workers) - This random assortment of slash commands has been completely rebuilt and deployed on the Cloudflare Worker Function platform.
+
 #### Emoji Legend
 
 | Emoji | Description                      |
