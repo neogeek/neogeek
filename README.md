@@ -78,7 +78,7 @@ When Slack first opened up the platform to development, I immediately started to
 
 ### Custom Webpack App
 
-- 🎉 [custom-webpack-cli](https://github.com/neogeek/custom-webpack-cli) - This CLI is used to simplify the Webpack setup process creating a `package.json`, `index.html`, and `index.jsx` file. No configuration needed.
+- 👷‍♂️ [custom-webpack-cli](https://github.com/neogeek/custom-webpack-cli) - This CLI is used to simplify the Webpack setup process creating a `package.json`, `index.html`, and `index.jsx` file. No configuration needed.
 - 🎉 [create-custom-webpack-app](https://github.com/neogeek/create-custom-webpack-app) - This CLI tool is used to even further simplify the process in which it creates all of the files needed to start building a React single web application.
 
 #### Emoji Legend
