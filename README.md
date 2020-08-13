@@ -12,13 +12,13 @@ I'm currently focused on wrapping up [Flip Jacks](https://flipjacksgame.com), bu
 
 Smoothie Operator is a Unity port of an HTML JavaScript canvas game I built a few years back at the [Purple Monkey Game Jam](https://purplemonkeygamejam.com/).
 
-- 👷‍♂️ [GitHub Repo](https://github.com/neogeek/Smoothie-Operator)
+- 👷‍♂️ [Smoothie-Operator](https://github.com/neogeek/Smoothie-Operator)
 
 ### A11YTK - Winner of Best in VR and Best of Accessibility at the 2020 [MIT Reality Hack](https://www.mitrealityhack.com)
 
 This project was built with the sole purpose of simplifying the addition of subtitles to VR applications.
 
-- 🎉 [Git Repo](https://github.com/A11YTK/A11YTK/)
+- 🎉 [A11YTK](https://github.com/A11YTK/A11YTK/)
 
 ### Cards Against Undefined
 
