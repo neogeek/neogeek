@@ -32,6 +32,7 @@ Cards Against Undefined is an online version of Cards Against Humanity built wit
 - 🎉 [websocket-game-lobby-client-hooks](https://github.com/neogeek/websocket-game-lobby-client-hooks) - This package is for building the web client with React.
 - 🎉 [websocket-event-wrapper](https://github.com/neogeek/websocket-event-wrapper) - This package is simply used for wrapping WebSocket events.
 - 🎉 [http-single-serve](https://github.com/neogeek/http-single-serve) - This package is used to serve static content for single-page applications.
+- 🎉 [websocket-unity](https://github.com/neogeek/websocket-unity) - This package is a simple wrapper for the websocket-csharp library.
 
 ### Untitled Drawing Game
 
