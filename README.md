@@ -86,8 +86,8 @@ When Slack first opened up the platform to development, I immediately started to
 
 #### Emoji Legend
 
-| Emoji | Description                  |
-| ----- | ---------------------------- |
-| 🎉    | Created within the last year |
-| 🔥    | Rebuilt within the last year |
-| 👷‍♂️    | Updated within the last year |
+| Emoji | Description                  | Count |
+| ----- | ---------------------------- | ----: |
+| 🎉    | Created within the last year |    19 |
+| 🔥    | Rebuilt within the last year |     2 |
+| 👷‍♂️    | Updated within the last year |     5 |
