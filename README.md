@@ -44,6 +44,7 @@ Using the packages detailed above, I've started to build out an online drawing g
 
 - 🎉 [drawtheline](https://github.com/neogeek/drawtheline) - This package adds events to an SVG object that allows you to draw on it.
 - 🎉 [slowreveal](https://github.com/neogeek/slowreveal) - This package adds animations to SVG paths, slowly revealing the drawing.
+- 🎉 [pocket-sized-facade.js](https://github.com/neogeek/pocket-sized-facade.js) - This package is a pocket sized reimagining of the [facade.js](https://github.com/facadejs) package.
 
 ### CandyCoded
 
@@ -93,6 +94,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    19 |
+| 🎉    | Created within the last year |    20 |
 | 🔥    | Rebuilt within the last year |     4 |
 | 👷‍♂️    | Updated within the last year |     5 |
