@@ -63,7 +63,7 @@ In addition to CandyCoded, I also maintain a lot of tools for simplifying certai
 - 🎉 [unity-check-updates](https://github.com/neogeek/unity-check-updates) - This CLI tool is used to update all Unity packages at once, rather than updating each individually.
 - 👷‍♂️ [unity-ci-tools](https://github.com/neogeek/unity-ci-tools) - This project contains a number of bash scripts that are set up to run tests on any Unity project on Travis CI or any other online CI service.
 - 🎉 [get-unity](https://github.com/neogeek/get-unity) - This CLI tool is used to get the download link for macOS, Windows, or Linux for the latest, or a specific version of Unity.
-- 🎉 [generate-upm-changelog](https://github.com/neogeek/generate-upm-changelog) - This CLI tool is used to generate a CHANGELOG for the unique branching system that is used Unity packages, in which the release branch is diverged from the master branch.
+- 🎉 [generate-local-changelog](https://github.com/neogeek/generate-local-changelog) - This CLI tool is used to generate a CHANGELOG for the unique branching system that is used Unity packages, in which the release branch is diverged from the master branch.
 - 🔥 [lumberlogs](https://github.com/neogeek/lumberlogs) - This is a desktop (macOS and Windows) application that helps debug deployed Unity application by sending logs to a local IP. Logs can then be filtered from within the application.
 
 ### Top Down
