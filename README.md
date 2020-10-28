@@ -27,7 +27,7 @@ This project was built with the sole purpose of simplifying the addition of subt
 Cards Against Undefined is an online version of Cards Against Humanity built with a number of packages that were released during the initial development. These packages are built specifically for building Jackbox-like games.
 
 - 🎉 [cards-against-undefined](https://github.com/neogeek/cards-against-undefined)
-- 🎉 [websocket-game-lobby](https://github.com/neogeek/websocket-game-lobby) - This package is for biulding the server component.
+- 🎉 [websocket-game-lobby](https://github.com/neogeek/websocket-game-lobby) - This package is for building the server component.
 - 🎉 [websocket-game-lobby-client](https://github.com/neogeek/websocket-game-lobby-client)- This package is for building the web client.
 - 🎉 [websocket-game-lobby-client-hooks](https://github.com/neogeek/websocket-game-lobby-client-hooks) - This package is for building the web client with React.
 - 🎉 [websocket-event-wrapper](https://github.com/neogeek/websocket-event-wrapper) - This package is simply used for wrapping WebSocket events.
