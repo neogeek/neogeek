@@ -54,6 +54,7 @@ I've also been actively maintaining my suite of packages for building games or a
 - 👷‍♂️ [ARFoundation-Components](https://github.com/CandyCoded/ARFoundation-Components/) - This package is for simplifying working with Unity's AR Foundation package.
 - 🎉 [Forms](https://github.com/CandyCoded/Forms/) - This package is for simplifying working with forms in Unity.
 - 🎉 [GitStatus](https://github.com/CandyCoded/GitStatus/) - This is a simple git tracker for seeing what files are new or modified.
+- 🎉 [SafeAreaLayout](https://github.com/CandyCoded/SafeAreaLayout) - A simple component for resizing Canvas objects to fit in the safe area of any device.
 
 ### Unity Development
 
@@ -95,6 +96,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    21 |
-| 🔥    | Rebuilt within the last year |     4 |
+| 🎉    | Created within the last year |    22 |
+| 🔥    | Rebuilt within the last year |     5 |
 | 👷‍♂️    | Updated within the last year |     5 |
