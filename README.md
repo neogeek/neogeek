@@ -35,6 +35,7 @@ Cards Against Undefined is an online version of Cards Against Humanity built wit
 - 🔥 [@neogeek/common-react-hooks](https://github.com/neogeek/common-react-hooks) - This package contains several custom, commonly used React hooks.
 - 🎉 [videoplayer.js](https://github.com/neogeek/videoplayer.js) - This package helps display videos in the browser with variable input sources.
 - 🎉 [websocket-unity](https://github.com/neogeek/websocket-unity) - This package is a simple wrapper for the websocket-csharp library.
+- 🎉 [use-interval-with-timeout](https://github.com/neogeek/use-interval-with-timeout) - This package contains a custom wrapper for setInterval with a timeout.
 
 ### Untitled Drawing Game
 
