@@ -106,6 +106,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    23 |
+| 🎉    | Created within the last year |    25 |
 | 🔥    | Rebuilt within the last year |     5 |
 | 👷‍♂️    | Updated within the last year |     5 |
