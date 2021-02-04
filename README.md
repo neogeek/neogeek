@@ -6,6 +6,14 @@ I've released **150+ open source projects** on [GitHub](https://github.com/neoge
 
 I'm currently focused on wrapping up [Flip Jacks](https://flipjacksgame.com), but I'm also working on a bunch of other projects. Here is a list of the projects that have been built or updated in the last year.
 
+### Match Attack
+
+[Play Online](https://scottdoxey.itch.io/match-attack)
+
+Match Attack is a memory game with a twist. Collect tiles that can then be used against an evil clown hell-bent on killing you.
+
+- 🎉 [atch-attack-ggj-2021](https://github.com/neogeek/match-attack-ggj-2021)
+
 ### Smoothie Operator
 
 [Play Online](https://scottdoxey.itch.io/smoothie-operator-unity-port)
@@ -56,6 +64,7 @@ I've also been actively maintaining my suite of packages for building games or a
 - 🎉 [Forms](https://github.com/CandyCoded/Forms/) - This package is for simplifying working with forms in Unity.
 - 🎉 [GitStatus](https://github.com/CandyCoded/GitStatus/) - This is a simple git tracker for seeing what files are new or modified.
 - 🎉 [SafeAreaLayout](https://github.com/CandyCoded/SafeAreaLayout) - A simple component for resizing Canvas objects to fit in the safe area of any device.
+- 🎉 [HapticFeedback](https://github.com/CandyCoded/HapticFeedback) - A simple API for performing haptic feedback on iOS and Android.
 
 ### Unity Development
 
