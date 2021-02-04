@@ -6,13 +6,13 @@ I've released **150+ open source projects** on [GitHub](https://github.com/neoge
 
 I'm currently focused on wrapping up [Flip Jacks](https://flipjacksgame.com), but I'm also working on a bunch of other projects. Here is a list of the projects that have been built or updated in the last year.
 
-### Match Attack
+### Match Attack (Global Game Jam 2021)
 
 [Play Online](https://scottdoxey.itch.io/match-attack)
 
 Match Attack is a memory game with a twist. Collect tiles that can then be used against an evil clown hell-bent on killing you.
 
-- 🎉 [atch-attack-ggj-2021](https://github.com/neogeek/match-attack-ggj-2021)
+- 🎉 [match-attack-ggj-2021](https://github.com/neogeek/match-attack-ggj-2021)
 
 ### Smoothie Operator
 
@@ -44,6 +44,8 @@ Cards Against Undefined is an online version of Cards Against Humanity built wit
 - 🎉 [videoplayer.js](https://github.com/neogeek/videoplayer.js) - This package helps display videos in the browser with variable input sources.
 - 🎉 [websocket-unity](https://github.com/neogeek/websocket-unity) - This package is a simple wrapper for the websocket-csharp library.
 - 🎉 [use-interval-with-timeout](https://github.com/neogeek/use-interval-with-timeout) - This package contains a custom wrapper for setInterval with a timeout.
+- 🎉 [random-word-uuid](https://github.com/neogeek/random-word-uuid) - This package is used for returning random works with specific character length.
+- 🎉 [format-elapsed-time](https://github.com/neogeek/format-elapsed-time) - This package contains a method for formatting elapsed time from the difference of two timestamps.
 
 ### Untitled Drawing Game
 
@@ -65,6 +67,11 @@ I've also been actively maintaining my suite of packages for building games or a
 - 🎉 [GitStatus](https://github.com/CandyCoded/GitStatus/) - This is a simple git tracker for seeing what files are new or modified.
 - 🎉 [SafeAreaLayout](https://github.com/CandyCoded/SafeAreaLayout) - A simple component for resizing Canvas objects to fit in the safe area of any device.
 - 🎉 [HapticFeedback](https://github.com/CandyCoded/HapticFeedback) - A simple API for performing haptic feedback on iOS and Android.
+
+### Flip Jacks (Open-Source Packages)
+
+- 🎉 [PokerSharp](https://github.com/neogeek/PokerSharp) - This project is a small poker hand evaluation library.
+- 🎉 [ObjectDragInteraction](https://github.com/neogeek/ObjectDragInteraction) - A simple component that adds dragging interaction to any object without config.
 
 ### Unity Development
 
@@ -106,6 +113,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    25 |
+| 🎉    | Created within the last year |    29 |
 | 🔥    | Rebuilt within the last year |     5 |
 | 👷‍♂️    | Updated within the last year |     5 |
