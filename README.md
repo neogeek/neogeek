@@ -67,6 +67,7 @@ I've also been actively maintaining my suite of packages for building games or a
 - 🎉 [GitStatus](https://github.com/CandyCoded/GitStatus/) - This is a simple git tracker for seeing what files are new or modified.
 - 🎉 [SafeAreaLayout](https://github.com/CandyCoded/SafeAreaLayout) - A simple component for resizing Canvas objects to fit in the safe area of any device.
 - 🎉 [HapticFeedback](https://github.com/CandyCoded/HapticFeedback) - A simple API for performing haptic feedback on iOS and Android.
+- 🎉 [AlertConfirmDialog](https://github.com/CandyCoded/AlertConfirmDialog) - Display simple alert and confirm dialogs on both iOS and Android.
 
 ### Flip Jacks (Open-Source Packages)
 
@@ -83,6 +84,7 @@ In addition to CandyCoded, I also maintain a lot of tools for simplifying certai
 - 🎉 [get-unity](https://github.com/neogeek/get-unity) - This CLI tool is used to get the download link for macOS, Windows, or Linux for the latest, or a specific version of Unity.
 - 🎉 [generate-local-changelog](https://github.com/neogeek/generate-local-changelog) - This CLI tool is used to generate a CHANGELOG for the unique branching system that is used Unity packages, in which the release branch is diverged from the master branch.
 - 🔥 [lumberlogs](https://github.com/neogeek/lumberlogs) - This is a desktop (macOS and Windows) application that helps debug deployed Unity application by sending logs to a local IP. Logs can then be filtered from within the application.
+- 🎉 [build-unity-android-plugin](https://github.com/neogeek/build-unity-android-plugin) - Build Android plugins for Unity without needing to setup an Android project.
 
 ### Top Down
 
@@ -113,6 +115,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    29 |
+| 🎉    | Created within the last year |    31 |
 | 🔥    | Rebuilt within the last year |     5 |
 | 👷‍♂️    | Updated within the last year |     5 |
