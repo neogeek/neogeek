@@ -68,6 +68,7 @@ I've also been actively maintaining my suite of packages for building games or a
 - 🎉 [SafeAreaLayout](https://github.com/CandyCoded/SafeAreaLayout) - A simple component for resizing Canvas objects to fit in the safe area of any device.
 - 🎉 [HapticFeedback](https://github.com/CandyCoded/HapticFeedback) - A simple API for performing haptic feedback on iOS and Android.
 - 🎉 [AlertConfirmDialog](https://github.com/CandyCoded/AlertConfirmDialog) - Display simple alert and confirm dialogs on both iOS and Android.
+- 🎉 [env](https://github.com/CandyCoded/env) - Use .env files in your Unity projects.
 
 ### Flip Jacks (Open-Source Packages)
 
@@ -115,6 +116,6 @@ When Slack first opened up the platform to development, I immediately started to
 
 | Emoji | Description                  | Count |
 | ----- | ---------------------------- | ----: |
-| 🎉    | Created within the last year |    31 |
+| 🎉    | Created within the last year |    32 |
 | 🔥    | Rebuilt within the last year |     5 |
 | 👷‍♂️    | Updated within the last year |     5 |
