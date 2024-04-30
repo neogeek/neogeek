@@ -1,0 +1,357 @@
+[
+  {
+    "id": "flip-jacks",
+    "url": "https://flipjacksgame.com/",
+    "name": "Flip Jacks",
+    "description": "Flip Jacks is a physics-based poker game in AR. Each game takes only 30 seconds. Can you flip your way to a winning hand?",
+    "icon": {
+      "src": "./images/projects/flip-jacks/logo.png",
+      "alt": "Flip Jacks logo which is the top left of a Jack card."
+    },
+    "links": [
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.thelast90percent.flipjacks",
+        "label": "Google Play",
+        "icon": "fa-brands fa-google-play"
+      },
+      {
+        "url": "https://apps.apple.com/app/flip-jacks/id6499108375",
+        "label": "iOS App Store",
+        "icon": "fa-brands fa-app-store-ios"
+      },
+      {
+        "url": "https://scottdoxey.itch.io/flip-jacks/",
+        "label": "Play Game Online",
+        "icon": "fa-brands fa-itch-io"
+      },
+      {
+        "url": "https://flipjacksgame.com/",
+        "label": "Learn More"
+      }
+    ],
+    "video": {
+      "poster": "./images/projects/flip-jacks/flip-jacks-demo-hand.png",
+      "sources": [
+        {
+          "src": "./images/projects/flip-jacks/flip-jacks-demo-hand.webm",
+          "type": "video/webm"
+        },
+        {
+          "src": "./images/projects/flip-jacks/flip-jacks-demo-hand.mp4",
+          "type": "video/mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "onlybuild",
+    "url": "https://github.com/neogeek/onlybuild",
+    "name": "onlybuild",
+    "description": "A zero-config cli for building static websites.",
+    "links": [
+      {
+        "url": "https://github.com/neogeek/onlybuild/",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/onlybuild/readme.png",
+      "alt": "Screenshot of the README.md for the onlybuild repo detailing the features included in the project."
+    }
+  },
+  {
+    "id": "rhythm-game-utilities",
+    "url": "https://github.com/neogeek/rhythm-game-utilities",
+    "name": "Rhythm Game Utilities",
+    "description": "This library is a collection of utilities for creating rhythm games like Tap Tap Revenge, Guitar Hero, and Rock Band. It is meant to be used within any game engine that supports loading C++ libraries, such as Unity, Unreal, and Godot.",
+    "links": [
+      {
+        "url": "https://github.com/neogeek/rhythm-game-utilities/",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      },
+      {
+        "url": "/case-study/rhythm-game-prototype/",
+        "label": "Case Study",
+        "icon": "fa-solid fa-book"
+      }
+    ],
+    "video": {
+      "poster": "./images/projects/rhythm-game-utilities/rhythm-game-utilities-demo.png",
+      "sources": [
+        {
+          "src": "./images/projects/rhythm-game-utilities/rhythm-game-utilities-demo.webm",
+          "type": "video/webm"
+        },
+        {
+          "src": "./images/projects/rhythm-game-utilities/rhythm-game-utilities-demo.mp4",
+          "type": "video/mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "handcrank-engine",
+    "url": "https://github.com/HandcrankEngine/HandcrankEngine/",
+    "name": "Handcrank Engine",
+    "description": "Handcrank is a game engine built in C++ on top of SDL with a focus on a simple, Unity GameObject-like object class structure inheritance. Handcrank is currently in active development.",
+    "links": [
+      {
+        "url": "https://github.com/HandcrankEngine/HandcrankEngine/",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "video": {
+      "poster": "./images/projects/handcrank-engine/handcrank-demo.png",
+      "sources": [
+        {
+          "src": "./images/projects/handcrank-engine/handcrank-demo.webm",
+          "type": "video/webm"
+        },
+        {
+          "src": "./images/projects/handcrank-engine/handcrank-demo.mp4",
+          "type": "video/mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "qr-code-generator",
+    "url": "https://qr-code-generator-eight-drab.vercel.app/",
+    "name": "QR Code Generator",
+    "description": "Frustrated with the quality of existing free (and paid) QR code generators, I built this tool to be simple, free, and without data analytics.",
+    "links": [
+      {
+        "url": "https://qr-code-generator-eight-drab.vercel.app/",
+        "label": "Try it Online"
+      },
+      {
+        "url": "https://github.com/neogeek/qr-code-generator/",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/qr-code-generator/screenshot.png",
+      "alt": "Screenshot of a generated QR code."
+    }
+  },
+  {
+    "id": "secret-scene",
+    "name": "Secret Scene",
+    "description": "An OBS automatic scene switcher for sensitive applications. Works on the same machine OBS is running on or another computer on the same network.",
+    "links": [
+      {
+        "label": "Coming Soon"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/secret-scene/screenshot-dark.png",
+      "alt": "Screenshot of the macOS version of Secret Scene.",
+      "sources": [
+        {
+          "srcset": "./images/projects/secret-scene/screenshot-light.png",
+          "media": "(prefers-color-scheme: light)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "generate-local-changelog",
+    "url": "https://github.com/neogeek/generate-local-changelog",
+    "name": "generate-local-changelog",
+    "description": "This homebrew distributed CLI generates local CHANGELOG.md files without access to a repo's remote via an API. The latest version has been ported to Rust for improved performance.",
+    "links": [
+      {
+        "url": "https://github.com/neogeek/generate-local-changelog",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/generate-local-changelog/changelog-gist.png",
+      "alt": "Screenshot of a CHANGELOG.md file generated by generate-local-changelog."
+    }
+  },
+  {
+    "id": "candycoded",
+    "url": "https://github.com/CandyCoded/CandyCoded",
+    "name": "CandyCoded",
+    "description": "CandyCoded is a collection of useful components and extensions for building in Unity. Whether you are building a quick prototype or a production-ready experience, CandyCoded will help you get there.",
+    "icon": {
+      "src": "./images/projects/candycoded/icon.png",
+      "alt": "CandyCoded icon which is a pink lollipop."
+    },
+    "links": [
+      {
+        "url": "https://github.com/CandyCoded/CandyCoded",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/candycoded/readme.png",
+      "alt": "Screenshot of the README.md for the CandyCoded repo detailing the features included in the project."
+    }
+  },
+  {
+    "id": "doxdox",
+    "url": "https://doxdox.org/",
+    "name": "doxdox",
+    "description": "doxdox is a tool for auto-generating documentation using JSDoc headers locally or via a hosted platform pointed at a public GitHub repo.",
+    "icon": {
+      "src": "./images/projects/doxdox/icon.png",
+      "alt": "doxdox icon which is a closed book with a bookmark."
+    },
+    "links": [
+      {
+        "url": "https://doxdox.org/",
+        "label": "Try It Online"
+      },
+      {
+        "url": "https://github.com/docsbydoxdox/doxdox",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/doxdox/landing-page.png",
+      "alt": "Screenshot of the doxdox.org landing page showing off examples of different output from doxdox."
+    }
+  },
+  {
+    "id": "match-attack",
+    "url": "https://scottdoxey.itch.io/match-attack",
+    "name": "Match Attack",
+    "description": "Match Attack is a memory game with a twist. Collect tiles that can then be used against an evil clown hell-bent on killing you. Made at the <a href=\"https://globalgamejam.org/\">Global Game Jam</a> in January 2021",
+    "icon": {
+      "src": "./images/projects/match-attack-ggj-2021/raccoon.png",
+      "alt": "Match Attack icon which is a crazed raccoon."
+    },
+    "links": [
+      {
+        "url": "https://scottdoxey.itch.io/match-attack",
+        "label": "Play Game Online",
+        "icon": "fa-brands fa-itch-io"
+      },
+      {
+        "url": "https://github.com/neogeek/match-attack-ggj-2021",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/match-attack-ggj-2021/title-card.png",
+      "alt": "Picture of the logo for Match Attack which is the words Match Attack over two arrows for a bow. Surrounding it are different example of tiles that can be matched in the game."
+    }
+  },
+  {
+    "id": "cards-against-undefined",
+    "url": "https://cards-against-undefined.onrender.com/",
+    "name": "Card Against Undefined",
+    "description": "An online version of Cards Against Humanity with support for playing with expansions and custom decks.",
+    "icon": {
+      "src": "images/projects/cards-against-undefined/logo.png",
+      "alt": "Cards Against Undefined logo which is two white cards and a black card fanned out like they are being held up."
+    },
+    "links": [
+      {
+        "url": "https://cards-against-undefined.onrender.com/",
+        "label": "Play Game Online"
+      },
+      {
+        "url": "https://github.com/neogeek/cards-against-undefined",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/cards-against-undefined/cards-against-undefined-devices.png",
+      "alt": "An iPad and an iPhone both playing Cards Against Undefined showing the user selecting a black card."
+    }
+  },
+  {
+    "id": "smoothie-operator",
+    "url": "https://scottdoxey.itch.io/smoothie-operator-unity-port",
+    "name": "Smoothie Operator",
+    "description": "Smoothie Operator is a Unity port of an HTML JavaScript canvas game made at the <a href=\"https://purplemonkeygamejam.com/\">Purple Monkey Game Jam</a>.",
+    "icon": {
+      "src": "./images/projects/smoothie-operator/fruit_1.png",
+      "alt": "Icon of a strawberry, one of the fruits you can collect in the Smoothie Operator game."
+    },
+    "links": [
+      {
+        "url": "https://scottdoxey.itch.io/smoothie-operator-unity-port",
+        "label": "Play Game Online",
+        "icon": "fa-brands fa-itch-io"
+      },
+      {
+        "url": "https://github.com/neogeek/Smoothie-Operator",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "video": {
+      "poster": "./images/projects/smoothie-operator/gameplay.png",
+      "sources": [
+        {
+          "src": "./images/projects/smoothie-operator/gameplay.webm",
+          "type": "video/webm"
+        },
+        {
+          "src": "./images/projects/smoothie-operator/gameplay.mp4",
+          "type": "video/mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "topdown-app",
+    "url": "https://topdown.app",
+    "name": "Top Down",
+    "description": "A simple, read-only, Trello board aggregator.",
+    "links": [
+      {
+        "url": "https://topdown.app",
+        "label": "Try It Online"
+      },
+      {
+        "url": "https://github.com/neogeek/topdown",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ],
+    "image": {
+      "src": "./images/projects/topdown/screenshot.png",
+      "alt": "A demo showing two Trello boards combined into one board."
+    }
+  },
+  {
+    "id": "get-unity",
+    "url": "https://github.com/neogeek/get-unity",
+    "name": "get-unity",
+    "description": "Command line tool for getting the download URL for the latest or specific version of Unity.",
+    "links": [
+      {
+        "url": "https://github.com/neogeek/get-unity",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+  },
+  {
+    "id": "create-app",
+    "url": "https://github.com/neogeek/create-app",
+    "name": "@neogeek/create-app",
+    "description": "▲ A heavily opinionated starter template.",
+    "links": [
+      {
+        "url": "https://github.com/neogeek/create-app",
+        "label": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+  }
+]
